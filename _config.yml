@@ -1,10 +1,17 @@
-theme: jekyll-theme-minimal
+# Site settings
 title: atanjaro's homepage
 description: Personal website
+url: "https://atanjaro.github.io"   # your GitHub Pages URL
+baseurl: ""                         # leave empty for personal site
 
-# navigation links
-header_pages:
+# Theme
+remote_theme: alshedivat/al-folio
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Navigation (al-folio uses `nav_pages` instead of header_pages)
+nav_pages:
   - about.md
   - projects.md
   - blog.md
-  - contact.md
