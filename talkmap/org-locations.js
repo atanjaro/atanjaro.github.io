@@ -1,8 +1,13 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "A comparative study of the superconductivity in the Holstein and optical SSH models<br />APS March Meeting; Las Vegas, NV, USA",
+    36.1674263,
+    -115.1484131
+  ],
+  [
+    "Antiferromagnetic and bond\u2011order\u2011wave phases in the 2D SSH\u2011Hubbard model<br />APS Global Physics Summit; Anaheim, CA, USA",
+    33.8347516,
+    -117.911732
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
@@ -10,13 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Static stripe order in the two-dimensional Hubbard-Holstein model<br />APS March Meeting; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ]
 ];
