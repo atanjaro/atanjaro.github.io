@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Andy Tanjaroon Ly",
+    "email": "atanjaro@vols.utk.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://atanjaro.github.io",
+    "summary": "Graduate research assistant at the University of Tennessee-Knoxville",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "1408 Circle Drive",
+      "postalCode": "37996",
+      "city": "Knoxville, TN",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,46 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=ilOZC-EAAAAJ&hl=en&authuser=1"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-3162-8581"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "atanjaro,
+        "url": "https://github.com/atanjaro"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Tennessee-Knoxville",
+      "area": "Ph.D in Physics",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2019",
+      "endDate": "2026",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Florida",
+      "area": "B.S. in Physics",
+      "studyType": "",
+      "startDate": "2015",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Florida",
+      "area": "B.A. in Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015",
+      "endDate": "2018",
       "gpa": null,
       "courses": []
     }
