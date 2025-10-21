@@ -10,6 +10,11 @@ var addressPoints = [
     -115.1484131
   ],
   [
+    "Static stripes in the two\u2011dimensional Hubbard\u2011Holstein model<br />Univesity of Tennessee-Knoxville; Knoxville, TN, USA",
+    35.9603948,
+    -83.9210261
+  ],
+  [
     "A comparative study of the superconductivity in the Holstein and optical SSH models<br />Univesity of Geneva; Geneva, GE, CH",
     46.2017559,
     6.1466014
