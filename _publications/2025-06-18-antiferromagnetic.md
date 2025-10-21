@@ -1,9 +1,9 @@
 ---
 title: "Antiferromagnetic and bond‑order‑wave phases in the two‑dimensional optical Su‑Schrieffer‑Heeger‑Hubbard model"
 collection: publications
-category: papers
+category: manuscripts
 permalink: /publication/2025-06-18-antiferromagnetic
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: ''
 date: 2025-06-18
 venue: 'Physical Review B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/2bnf-tmtc'
