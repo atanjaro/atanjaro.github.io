@@ -11,54 +11,80 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, 2026 (expected)
+* B.S. in Physics, University of Florida, 2018
+* B.A. in Mathematics, University of Florida, 2018
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate research assistant: August 2019 - current
+  * University of Tennessee-Knoxville
+  * Advisor: Steven Johnston
+  * Studied strongly correlated phenomena in the Hubbard model and models of electron-phonon interaction. 
+  * Used Monte Carlo methods including determinant quantum Monte Carlo and variational Monte Carlo.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* SCGSR fellow: August 2024 - June 2025
+  * Oak Ridge National Laboratory
+  * Mentor: Thomas Maier
+  * Continued development of VariaitonalMC.jl, an all-new, flexible variational Monte Carlo code in Julia.
+  * Project utilizing the dynamical cluster approximation (DCA) on FRONTIER.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visiting Ph.D. student: July 2023 - July 2024
+  * University of Geneva
+  * Mentor: Louk Rademaker
+  * Worked on calculation related to twisted bilayer Graphene.
+ 
+* Undergraduate research assistant: August 2016 - May 2019
+  * University of Florida
+  * Advisor: David Tanner
+  * Performed optical spectroscopy experiments.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Graduate teaching assistant: August 2019 - May 2021, August 2025
+  * University of Tennessee-Knoxville
+  * PHYS 221: Elements of Physics I
+  * PHYS 22: Elements of Physics II
+  * PHYS 232: Waves, Optics, and Modern Physics
+  * PHYS 611: Quantum Field Theory I
+
+* Undergraduate teaching assistant: August 2018 - May 2019
+  * University of Florida
+  * PHY 2054L: Physics 2 Lab
+  * PHY 3101: Intro to Modern Physics
+ 
+Honors & Awards
+======
+* Robert Birkhoff fellowship, University of Tennessee-Knoxville, 2025
+* DCOMP travel award, American Physical Society, 2025
+* SCGSR fellowship, U.S. Department of Energy Office of Science, 2024-2025
+* Ruth and Earl Sawyer award for undergraduate leadership, University of Florida, 2018
+* Dean's list, University of Florida, 2016
+
+Skills
+======
+* Programming languages
+  * Julia
+  * Python
+  * C++
+  * FORTRAN
+  * MATLAB
+  * LaTeX
+* Software
+  * SmoQyDQMC
+  * SmoQyDEAC
+  * VariationalMC
+  * DCA++
+  * Keras
+  * SLURM
+  * PBS
+* Languages
+  * English
+  * Thai (spoken)
+  * French (A2 level)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary, Graduate Physics Society, University of Tennessee-Knoxville, 2019-2021
+* Propagandist, Society of Physics Students, University of Florida, 2017-2018
+* Secretary, Society of Physics Students, University of Florida, 2016-2017
