@@ -9,3 +9,4 @@ venue: 'SciPost Physics Codebases'
 paperurl: 'https://scipost.org/10.21468/SciPostPhysCodeb.29'
 citation: 'B. Cohen-Stead, S.M. Costa, J. Neuhaus, A. Tanjaroon Ly, Y. Zhang,  R. Scalettar, K. Barros, S. Johnston. &quot;SmoQyDQMC.jl: A flexible implementation of determinant quantum Monte Carlo for Hubbard and electron-phonon interactions.&quot; <i>SciPost Physics Codebases</i>. 29 (2024)'
 ---
+![](/images/smoqysuite-main-logo-1.png)
