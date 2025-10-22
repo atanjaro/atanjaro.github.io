@@ -10,4 +10,4 @@ paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184501'
 citation: 'A. Tanjaroon Ly, B. Cohen-Stead, S.M. Costa, S. Johnston. &quot;Comparative study of the superconductivity in the Holstein and optical Su-Schrieffer-Heeger models.&quot; <i>Physical Review B</i>. 108, 184501 (2023)'
 ---
 Editor's suggestion.
-
+![](/images/comparative_sc_fig1.png)
