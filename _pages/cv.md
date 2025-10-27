@@ -41,7 +41,7 @@ Research experience
   * Advisor: David Tanner
   * Performed optical spectroscopy experiments.
 
-Teaching
+Teaching Experience
 ======
 * Graduate teaching assistant: August 2019 - May 2021, August 2025
   * University of Tennessee-Knoxville
@@ -85,7 +85,7 @@ Skills
   * Thai (spoken)
   * French (A2 level)
 
-Service and leadership
+Service & leadership
 ======
 * Secretary, Graduate Physics Society, University of Tennessee-Knoxville, 2019-2021
 * Propagandist, Society of Physics Students, University of Florida, 2017-2018
