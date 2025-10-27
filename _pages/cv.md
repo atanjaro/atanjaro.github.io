@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](https://atanjaro.github.io/files/curriculum_vitae_andy_tanjaroon_ly.pdf')
+
 Education
 ======
 * Ph.D in Physics, 2026 (expected)
