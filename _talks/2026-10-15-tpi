@@ -1,5 +1,5 @@
 ---
-title: "AExploring the Su-Schrieffer-Heeger model and its potential path to superconductivity"
+title: "Exploring the Su-Schrieffer-Heeger model and its potential path to superconductivity"
 collection: talks
 type: "Talk"
 permalink: /talks/2026-10-15-tpi
@@ -7,7 +7,6 @@ venue: "Univesity of Alberta"
 date: 2026-10-15
 location: "Edmonton, AB, CA"
 ---
-
-https://sites.ualberta.ca/~iboettch/tpi/tpi_seminar.html
+[Theoretical Physics Institute](https://sites.ualberta.ca/~iboettch/tpi/tpi_seminar.html)
 
 Studying model Hamiltonians have played a central role in the formation of our understanding of electron-phonon (e-ph) interactions in solids. Such interactions are responsible for the pairing interaction in superconductors, and the resulting competition/cooperation between the electronic and phononic degrees of freedom can realize other novel states of metter. Over the past several years, there has been substantial interest in Su-Schrieffer-Heeger (SSH)-type interactions, where the atomic motion modulates the overlap of the hopping amplitude between atomic orbitals. Recent theories suggest that superconductivity can arise in these models through the formation of light bipolarons, leading to high-Tc bipolaronic superconductivity. We use numerically exact determinant quantum Monte Carlo (DQMC) to solve the "bond" and "optical" variants of the SSH model in two dimensions (2D) to examine pairing correlations across a range of model parameters. We also perform systematic comparisons to the Holstein model and highlight the differences between these SSH model variants. Further, we map out a ground state phase diagram of the 2D half-filled "optical" SSH-Hubbard model in the challenging adiabatic regime (Omega/EF ~ 1/8).
