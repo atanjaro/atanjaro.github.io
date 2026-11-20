@@ -7,7 +7,7 @@ author_profile: true
 
 ## Software
 
-Here are some software projects I have been involved with:
+Some software projects I have been involved with:
 
 ### VariationalMC
 <picture>
