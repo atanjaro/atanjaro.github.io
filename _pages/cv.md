@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://atanjaro.github.io/files/curriculum_vitae_andy_tanjaroon_ly.pdf)
+[Download CV](https://atanjaro.github.io/files/Andy_Tanjaroon_Ly_CV_11-20-26.pdf)
 
 Education
 ======
-* Ph.D in Physics, 2026 (expected)
+* Ph.D in Physics, 2026
+    * Advisor: Steven Johnston
+    * Dissertation: "Voyages on the Frontier: Exploring competing orders in correlated lattice models"
 * B.S. in Physics, University of Florida, 2018
 * B.A. in Mathematics, University of Florida, 2018
 
