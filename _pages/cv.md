@@ -19,7 +19,11 @@ Education
 
 Research experience
 ======
-* Graduate research assistant: August 2019 - current
+* QHA postdoctoral fellowt: September 2026 - current
+  * University of Alberta
+  * Supervisor: Frank Marsiglio
+
+* Graduate research assistant: August 2019 - July 2026
   * University of Tennessee-Knoxville
   * Advisor: Steven Johnston
   * Studied strongly correlated phenomena in the Hubbard model and models of electron-phonon interaction. 
@@ -27,7 +31,7 @@ Research experience
 
 * SCGSR fellow: August 2024 - June 2025
   * Oak Ridge National Laboratory
-  * Mentor: Thomas Maier
+  * Supervisor: Thomas Maier
   * Continued development of VariaitonalMC.jl, an all-new, flexible variational Monte Carlo code in Julia.
   * Project utilizing the dynamical cluster approximation (DCA) on FRONTIER.
 
