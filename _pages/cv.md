@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* QHA postdoctoral fellowt: September 2026 - current
+* QHA postdoctoral fellow: September 2026 - current
   * University of Alberta
   * Supervisor: Frank Marsiglio
 
