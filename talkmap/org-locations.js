@@ -1,18 +1,13 @@
 var addressPoints = [
   [
-    "Static stripe order in the two-dimensional Hubbard-Holstein model<br />APS March Meeting; Chicago, IL, USA",
-    41.8755616,
-    -87.6244212
-  ],
-  [
     "Antiferromagnetic and bond\u2011order\u2011wave phases in the 2D SSH\u2011Hubbard model<br />APS Global Physics Summit; Anaheim, CA, USA",
     33.8347516,
     -117.911732
   ],
   [
-    "Static stripes in the two\u2011dimensional Hubbard\u2011Holstein model<br />Univesity of Tennessee-Knoxville; Knoxville, TN, USA",
-    35.9603948,
-    -83.9210261
+    "Static stripe order in the two-dimensional Hubbard-Holstein model<br />APS March Meeting; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
     "Static stripe correlations and pair-density-waves in the doped two-dimensional Hubbard model<br />APS Global Physics Summit; Denver, CO, USA",
@@ -25,8 +20,18 @@ var addressPoints = [
     -115.1484131
   ],
   [
+    "Exploring the Su-Schrieffer-Heeger model and its potential path to superconductivity<br />Univesity of Alberta; Edmonton, Alberta, Canada",
+    53.5462055,
+    -113.491241
+  ],
+  [
     "A comparative study of the superconductivity in the Holstein and optical SSH models<br />Univesity of Geneva; Geneva, GE, CH",
     46.2017559,
     6.1466014
+  ],
+  [
+    "Static stripes in the two\u2011dimensional Hubbard\u2011Holstein model<br />Univesity of Tennessee-Knoxville; Knoxville, TN, USA",
+    35.9603948,
+    -83.9210261
   ]
 ];
