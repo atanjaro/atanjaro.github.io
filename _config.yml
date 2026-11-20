@@ -23,7 +23,7 @@ repository               : "https://github.com/atanjaro/atanjaro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_new.png"
   name             : "Andy Tanjaroon Ly"
   pronouns         : "he/him/his"  
   bio              : "QHA Postdoctoral Fellow"
